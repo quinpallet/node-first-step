@@ -53,3 +53,9 @@ $ docker-compose run -d --rm app node fastify-server.js
 ```sh
 $ curl -is http://localhost:3000
 ```
+
+
+## License
+
+&copy; 2021 [Ken Kurosaki](https://github.com/quinpallet).<br>
+This project is [MIT](https://github.com/quinpallet/node-first-step/blob/master/LICENSE) licensed.
